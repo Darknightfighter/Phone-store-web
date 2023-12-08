@@ -21,7 +21,7 @@
             <th>Note</th>
         </tr>
         <tr>
-            <td>21110758</td>
+            <td>21110098</td>
             <td>Vo Dang Trinh</td>
             <td>Member</td>
         </tr>
@@ -31,7 +31,7 @@
             <td>Member</td>
         </tr>
         <tr>
-            <td>21110092</td>
+            <td>21110112</td>
             <td>Ngo Pham Quang Vinh</td>
             <td>Member</td>
         </tr>
